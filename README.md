@@ -2,10 +2,9 @@
 
 ## Deep Neural Network Confidence Calibration from Stochastic Weight Averaging
 
-<p>
-<img src=https://github.com/zjcao/swaCal/blob/main/_figures/swa.png align="center" width=50%/>  
-</p>  
-
+<div align=left>
+<img src=https://github.com/zjcao/swaCal/blob/main/_figures/swa.png width=50%/ >
+</div>
 
 
 ### Requirements
@@ -13,14 +12,13 @@
 The following function libraries should be installed, including ``python、numpy、matplotlib、tqdm`` and ``torch、torchvision``.
 
 
-
 ### Quick Start
 
 - #### Custom Dataset
 
 > Please modify the path settings(``data_dir``)  in ``./swaCal/data/cinic10.py/`` and ``cifar10.py`` files.
- 
 
+ 
 - #### Testing
 
 ```shell
@@ -30,10 +28,9 @@ python testing_cinic10.py
 
 - #### Reliability diagram
 
-<p>
-<img src=https://github.com/zjcao/swaCal/blob/main/_figures/cinic_10_ralia_after.png align="center" width=50%/>
-</p>
-
+<div align=left>
+<img src=https://github.com/zjcao/swaCal/blob/main/_figures/cinic_10_ralia_before.png width=40%/> <img src=https://github.com/zjcao/swaCal/blob/main/_figures/cinic_10_ralia_after.png width=40%/>
+</div>
 
 
 ### Citation
