@@ -1,3 +1,8 @@
+"""
+engine: image tester.
+coder: czjing
+"""
+
 import time
 import os
 import copy
