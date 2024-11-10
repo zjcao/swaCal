@@ -2,6 +2,8 @@
 
 ## Deep Neural Network Confidence Calibration from Stochastic Weight Averaging
 
+![cinic-10_ralia_after]("./_figures/cinic_10_ralia_after.pdf")
+
 ### Requirements
 
 The following function libraries should be installed, including ``python、numpy、matplotlib、tqdm`` and ``torch、torchvision``.
