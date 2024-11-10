@@ -9,7 +9,7 @@
 
 ### Requirements
 
-The following function libraries should be installed, including 
+The following libraries should be installed, including 
 
 ``python、numpy、matplotlib、tqdm、scikit-learn``
 
@@ -27,13 +27,13 @@ and
 
 - #### Training
 
-```shell
+```sh
 python training_cinic10.py
 ```
 
 - #### Testing
 
-```shell
+```python
 python testing_cinic10.py
 ```
 
