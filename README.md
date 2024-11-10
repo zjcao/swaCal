@@ -20,7 +20,7 @@ and
 
 ### Quick Start
 
-- #### Custom Dataset
+- #### Custom dataset
 
 > Please modify the path settings(``data_dir``)  in ``./swaCal/data/cinic10.py/`` and ``cifar10.py`` files.
 
