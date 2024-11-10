@@ -24,7 +24,13 @@ and
 
 > Please modify the path settings(``data_dir``)  in ``./swaCal/data/cinic10.py/`` and ``cifar10.py`` files.
 
- 
+
+- #### Training
+
+```shell
+python training_cinic10.py
+```
+
 - #### Testing
 
 ```shell
