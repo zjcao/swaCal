@@ -4,14 +4,14 @@
 
 ### Requirements
 
-please install the following function libraries, including ``python、numpy、matplotlib、tqdm`` and ``torch、torchvision``.
+The following function libraries should be installed, including ``python、numpy、matplotlib、tqdm`` and ``torch、torchvision``.
 
 
 ### Quick Start
 
 - #### Custom Dataset
 
-> please modify the path settings(``data_dir``)  in the ``./swaCal/data/cinic10.py/`` and ``cifar10.py`` file.
+> Please modify the path settings(``data_dir``)  in ``./swaCal/data/cinic10.py/`` and ``cifar10.py`` files.
  
 
 - #### Testing
