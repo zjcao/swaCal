@@ -59,3 +59,10 @@ python testing_cinic10.py
   DOI = {10.3390/electronics13030503}
 }
 ```
+
+### Acknowledgements
+
+We thank the authors of *** for their [code]().
+
+> Autor: czjing \
+[![Updated Badge](https://badges.pufler.dev/updated/zjcao/github-swaCal)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/visits/zjcao/github-swaCal)](https://badges.pufler.dev)
