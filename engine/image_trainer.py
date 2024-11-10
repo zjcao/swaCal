@@ -1,3 +1,8 @@
+"""
+engine: image trainer.
+coder: czjing
+"""
+
 # from __future__ import print_function, division
 
 import time
