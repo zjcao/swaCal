@@ -1,3 +1,7 @@
+"""
+train: cinic10 or cifar10
+coder: czjing
+"""
 
 import torch
 import torch.nn as nn
