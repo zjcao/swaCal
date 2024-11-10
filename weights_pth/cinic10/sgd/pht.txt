@@ -1,1 +1,1 @@
-pth
+Here should be the trained model weights file (*.pth).
