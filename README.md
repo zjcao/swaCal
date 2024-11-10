@@ -9,7 +9,13 @@
 
 ### Requirements
 
-The following function libraries should be installed, including ``python、numpy、matplotlib、tqdm`` and ``torch、torchvision``.
+The following function libraries should be installed, including 
+
+``python、numpy、matplotlib、tqdm、scikit-learn``
+
+and 
+
+``torch、torchvision、torchmetrics``.
 
 
 ### Quick Start
