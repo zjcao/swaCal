@@ -2,7 +2,8 @@
 
 ## Deep Neural Network Confidence Calibration from Stochastic Weight Averaging
 
-![cinic-10_ralia_after]("/_figures/cinic_10_ralia_after.png")
+![cinic-10_ralia_after]("https://github.com/zjcao/swaCal/blob/main/_figures/cinic_10_ralia_after.png")
+
 
 ### Requirements
 
