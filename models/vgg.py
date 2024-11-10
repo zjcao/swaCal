@@ -20,6 +20,5 @@ def get_vgg16(weights_path=None):
 if __name__ == '__main__':
 
     # vgg16
-    weight_path = "/home/zjcao/work/open_code/swaCal/weights_pth/cinic10/sgd/epoch_24_mdoel_acc_0.7868.pth"
-    vgg16 = get_vgg16(weights_path=weight_path)
+    vgg16 = get_vgg16()
     print(vgg16(torch.randn((2,3,32,32))).shape)
