@@ -1,3 +1,7 @@
+"""
+test: cinic10
+coder: czjing
+"""
 
 import torch
 from engine.image_tester import cal_class_acc_ece
