@@ -65,4 +65,5 @@ python testing_cinic10.py
 We thank the authors of *** for their [code]().
 
 > Autor: czjing (last edited: Nov10, 2024) \
-[![Updated Badge](https://badges.pufler.dev/updated/zjcao/swaCal)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/visits/zjcao/swaCal)](https://badges.pufler.dev)
+> ![Updated Badge](https://badges.pufler.dev/updated/zjcao/swaCal)
+> ![](https://komarev.com/ghpvc/?username=zjcao&abbreviated=true&label=Visits)
